@@ -3,7 +3,7 @@
 Mini-project for **Applied AI Programming (TX00FM14)**, Metropolia University of Applied Sciences
 Author: **Bibas Dhital**
 
-**Demo video:** ADD-YOUTUBE-LINK-HERE
+**Demo video:** https://youtu.be/_nmyPy8Hqm8
 
 A semantic search application that finds passages in a small collection of industrial-automation
 notes **by meaning**, not only by exact words. A query such as *"how can I tell when a machine part
