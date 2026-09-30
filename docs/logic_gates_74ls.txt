@@ -1,0 +1,13 @@
+LOGIC GATE CHIPS AND KARNAUGH MAPS - LAB NOTES
+
+74LS series chips
+The 74LS family is a group of TTL logic chips that run on a 5 V supply. The 74LS00 contains four 2-input NAND gates. The 74LS08 contains four 2-input AND gates. The 74LS32 contains four 2-input OR gates. The 74LS04 contains six inverters (NOT gates). On the common 14-pin package, pin 14 is VCC (+5 V) and pin 7 is ground.
+
+Wiring tips
+Always connect power and ground before testing a circuit. Unused inputs on TTL chips float high but should be tied to a defined level to avoid noise. A missing ground connection is the most common reason a breadboard circuit does not work.
+
+Karnaugh maps
+A Karnaugh map (K-map) is a grid used to simplify Boolean expressions. Neighbouring cells differ by only one variable. Grouping 1s in rectangles of 1, 2, 4 or 8 cells removes variables and gives a simpler circuit with fewer gates. Groups may wrap around the edges of the map.
+
+Universal gates
+NAND and NOR are called universal gates because any other logic function can be built using only one of them.

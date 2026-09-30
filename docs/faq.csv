@@ -1,0 +1,11 @@
+question,answer,topic
+"What does PLC stand for?","Programmable logic controller, an industrial computer that controls machines.",automation
+"Why is 4-20 mA used instead of 0-20 mA?","The 4 mA live zero makes it possible to detect a broken wire.",sensors
+"Which MQTT QoS level guarantees exactly once delivery?","QoS 2.",iot
+"What is the default MQTT port?","1883 without encryption and 8883 with TLS.",iot
+"What is a cobot?","A collaborative robot that is designed to work safely near people by limiting speed and force.",safety
+"What is lockout/tagout?","A procedure where energy sources are switched off and locked before maintenance.",safety
+"What does RUL mean in maintenance?","Remaining useful life, the estimated time until a component fails.",maintenance
+"Which pin is ground on a 74LS00?","Pin 7 is ground and pin 14 is VCC.",electronics
+"What is virtual commissioning?","Testing a PLC program against a simulated model before the real line is built.",digital-twin
+"What is a false reject in vision inspection?","A good part that the system wrongly rejects as defective.",vision
